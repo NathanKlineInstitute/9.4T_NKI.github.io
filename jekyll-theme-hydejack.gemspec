@@ -13,9 +13,9 @@ Gem::Specification.new do |spec|
     "bug_tracker_uri"   => "https://github.com/hydecorp/hydejack/issues",
     "changelog_uri"     => "https://hydejack.com/changelog/",
     "documentation_uri" => "https://hydejack.com/docs/",
-    "homepage_uri"      => "https://hydejack.com/",
-    "source_code_uri"   => "https://github.com/hydecorp/hydejack/",
-    "github_repo"       => "ssh://github.com/hydecorp/hydejack"
+    "homepage_uri"      => "https://nathanklineinstitute.github.io/9.4T_NKI.github.io/",
+    "source_code_uri"   => "https://github.com/nathanklineinstitute.github.io/9.4T_NKI.github.io",
+    "github_repo"       => "ssh://github.com/nathanklineinstitute.github.io/9.4T_NKI.github.io"
   }
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|_config.yml|README|LICENSE|NOTICE|CHANGELOG)}i) }
