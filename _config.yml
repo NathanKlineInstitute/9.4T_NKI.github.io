@@ -1,6 +1,6 @@
-theme: jekyll-theme-minimal
-title: 9.4T Website at NKI
-description: Website for 9.4T project at NKI
+#theme: jekyll-theme-minimal
+#title: 9.4T Website at NKI
+#description: Website for 9.4T project at NKI
 
 
 # Welcome to Jekyll!
@@ -25,7 +25,7 @@ title                    : 9.4T MRI
 title_separator          : "-"
 subtitle                 : Development of the 9.4T MRI scanner at NKI
 name                     : 9.4T
-description              : "The official website for the Reproducible Brain Charts project."
+description              : "Website for 9.4T project at NKI."
 url                      : https://nathanklineinstitute.github.io/9.4T_NKI.github.io/
 baseurl                  :
 repository               : "https://github.com/NathanKlineInstitute/9.4T_NKI.github.io"
